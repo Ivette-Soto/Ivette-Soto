@@ -7,6 +7,8 @@
 🙈🙉🙊
 
 ![OIG3](https://github.com/Ivette-Soto/Ivette-Soto/assets/86391992/2017d195-e105-40b3-a662-045ef29bbc16) 
+![OIG3](https://github.com/Ivette-Soto/Ivette-Soto/assets/86391992/9fe73e4c-7df7-4e36-a96f-621dba73ff97)
+
 <!---
 Ivette-Soto/Ivette-Soto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
