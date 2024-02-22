@@ -1,6 +1,7 @@
 - 🐒 Hi, I’m @Ivette-Soto
 - 😏I’m interested in preserving our land from pollution and community base development
--  Participated in shared reading communities such as Book Clubs and Book Exchange and Literary Circle <a href="https://www.clmdd.org/inicio">Círculo Literario Manuel Durán Díaz<a>
+- ✍🏼 Participated in shared reading communities such as Book Clubs and Book Exchange and Literary Circle <a href="https://www.clmdd.org/inicio">Círculo Literario Manuel Durán Díaz</a>
+- 🤝🏼 I collaborate in the publishing of <a href="https://www.elwachyman.cl/">El Wachyman</a> newsletter
 - 🙄 I’m currently learning to read JavaScript.
 - 🧐 I’m looking to collaborate on local startups environmentally concerned and community oriented
 - 🤝 You may reach me by message on https://www.facebook.com/late.te.52
