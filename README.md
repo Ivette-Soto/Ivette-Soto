@@ -1,13 +1,19 @@
-- 🐒 Hi, I’m @Ivette-Soto
-- 😏I’m interested in preserving our land from pollution and community base development
-- 🤝🏼 I collaborate in the publishing of <a href="https://www.elwachyman.cl/">El Wachyman</a> newsletter
-- ✍🏼 Participate in shared-reading communities such as Book Clubs and Book Exchange and Literary Circle <a href="https://www.clmdd.org/poes%C3%ADa">Círculo Literario Manuel Durán Díaz</a>
-- 🙄 I’m currently learning to read JavaScript.
-- 🧐 I’m looking to collaborate on local startups environmentally concerned and community oriented
-- 🤝 You may reach me by message on https://www.facebook.com/late.te.52
-🙈🙉🙊
+<b>Hi!</b>   ヽ(✿ﾟ▽ﾟ)ノ
 
-[OIG3](https://github.com/Ivette-Soto/Ivette-Soto/assets/86391992/9fe73e4c-7df7-4e36-a96f-621dba73ff97)
+<br>🐒 <b>I’m @Ivette-Soto,</b>
+
+<br>   ( ͡° ͜ʖ ͡°)ʖ   listening at port Chile and currently learning JavaScript 😳 in Node.js at {Desafío} Latam_
+<br>
+
+☝🏻 So far I've been practicing basic Front-End elemental skills using first HTML5 and CSS.
+❣ Back-End has proven to be a tough, but wonderfully engaging challenge.
+<br>
+
+🙈🙉🙊
+- ✍🏼 No-coding hours are always well spent as testified in verse by  <a href="https://www.clmdd.org/poes%C3%ADa">Círculo Literario Manuel Durán Díaz</a>
+- 🤝🏼 See what my hometown is all about through the eyes of  <a href="https://www.elwachyman.cl/">El Wachyman</a>
+
+<br>🐵 Learning progress will be presented in this platform so it'll be available for comments as I'm just beggining the journey into my first code language and advice on how not to end the world while pressing keys over here will be welcomed ༼ つ ◕_◕ ༽つ
 
 <!---
 Ivette-Soto/Ivette-Soto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
